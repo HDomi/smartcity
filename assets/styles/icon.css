@@ -1,0 +1,151 @@
+.icon_b{
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    vertical-align: middle;
+}
+.icon_c{
+    background-repeat: no-repeat;
+    background-position: center;
+    vertical-align: middle;
+}
+
+
+
+.ic_english{
+    background: url(../images/common/ic_english.svg);
+    width: 23px;
+    height: 15px;
+    vertical-align: -2px;
+}
+.ic_korean{
+    background: url(../images/common/ic_korean.svg);
+    width: 23px;
+    height: 15px;
+    vertical-align: -2px;
+}
+.ic_ggs_under{
+    background: url(../images/common/ic_ggs_under.svg);
+    width: 20px;
+    height: 12px;
+    vertical-align: -2px;
+}
+.ic_tryang{
+    background: url(../images/common/ic_tryang.svg);
+    width: 18px;
+    height: 15px;
+    vertical-align: -2px;
+}
+.ic_tryang_c{
+    background: url(../images/common/ic_tryang_c.svg);
+    width: 18px;
+    height: 15px;
+    vertical-align: -2px;
+}
+.ic_tryang_c_u{
+    background: url(../images/common/ic_tryang_c_u.svg);
+    width: 18px;
+    height: 15px;
+    vertical-align: -2px;
+}
+
+.ic_rectan{
+    background: url(../images/common/ic_rectan.svg)no-repeat;
+    width: 21px;
+    height: 21px;
+    vertical-align: -5px;
+}
+.ic_dodbo{
+    background: url(../images/common/ic_dodbo.svg);
+    width: 20px;
+    height: 20px;
+    vertical-align: -4px;
+}
+.ic_monitor{
+    background: url(../images/common/ic_monitor.svg);
+    width: 20px;
+    height: 20px;
+    vertical-align: -4px;
+}
+.ic_rectan_c{
+    background: url(../images/common/ic_rectan_c.svg)no-repeat;
+    width: 21px;
+    height: 21px;
+    vertical-align: -5px;
+}
+.ic_dodbo_c{
+    background: url(../images/common/ic_dodbo_c.svg);
+    width: 20px;
+    height: 20px;
+    vertical-align: -4px;
+}
+.ic_monitor_c{
+    background: url(../images/common/ic_monitor_c.svg);
+    width: 20px;
+    height: 20px;
+    vertical-align: -4px;
+}
+
+.ic_pol{
+    background: url(../images/common/ic_pol.svg);
+    width: 12px;
+    height: 12px;
+    vertical-align: 0px;
+    cursor: pointer;
+}
+.ic_polx2{
+    background: url(../images/common/ic_polx2.svg);
+    width: 19px;
+    height: 12px;
+    vertical-align: 0px;
+    cursor: pointer;
+}
+
+
+
+.ic_poli{
+    background: url(../images/common/ic_poli.svg)no-repeat;
+    width: 24px;
+    height: 24px;
+    vertical-align: -4px;
+}
+.ic_poli_c{
+    background: url(../images/common/ic_poli_c.svg)no-repeat;
+    width: 24px;
+    height: 24px;
+    vertical-align: -4px;
+}
+.ic_pol_btn{
+    background: url(../images/common/ic_pol_btn.svg)no-repeat;
+    width: 30px;
+    height: 30px;
+    vertical-align: -2px;
+    display: inline-block;
+}
+
+
+
+.ic_folder{
+    background: url(../images/common/ic_folder.svg)no-repeat;
+    width: 22px;
+    height: 22px;
+    vertical-align: -5px;
+}
+.ic_6gak{
+    background: url(../images/common/ic_6gak.svg)no-repeat;
+    width: 22px;
+    height: 22px;
+    vertical-align: -5px;
+}
+.ic_folder_c{
+    background: url(../images/common/ic_folder_c.svg)no-repeat;
+    width: 22px;
+    height: 22px;
+    vertical-align: -5px;
+}
+.ic_6gak_c{
+    background: url(../images/common/ic_6gak_c.svg)no-repeat;
+    width: 22px;
+    height: 22px;
+    vertical-align: -5px;
+}
